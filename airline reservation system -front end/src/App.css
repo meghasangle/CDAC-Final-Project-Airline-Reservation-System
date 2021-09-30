@@ -1,0 +1,115 @@
+nav a{
+  color: black !important;
+  text-decoration: none;
+  text-align: center !important
+}
+nav{
+  background-color: #ffbbbb;
+  background-attachment: fixed;
+}
+.container{
+  /* background-image: url(./img1.jpg); */
+  /* background-attachment: fixed; */
+  text-align: center;
+  /* height: 768px;
+  width: 1024px; */
+  height: auto;
+  width: auto;
+}
+
+.title{
+  margin-top: 15px;
+}
+
+.table{
+  font-weight: 4000;
+  font-size: large;
+  /* color: red; */
+}
+
+.jumbotron{
+  /* background: url('img4.jpg') top center; */
+  background-size: cover;
+  margin-top: 1em;
+  padding-top: 1em;
+  padding-bottom: em;
+}
+.jumbotron1{
+  /* background: url('img4.jpg') top center; */
+  background-size: cover;
+  margin-top: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+label{
+  color: rgb(0, 0, 0);
+  font-size: large;
+  
+}
+.content-info {
+  /* background: #f9f9f9; */
+  padding: 40px 0;
+  background-size: cover !important;
+  background-position: top center !important;
+  background-repeat: no-repeat !important;
+  position: relative;
+  padding-bottom: 100px
+}
+
+table {
+  width: 100%;
+  /* background: #fff; */
+  border: 1px solid black
+}
+
+table thead tr th {
+  padding: 20px;
+  border: 1px solid #dedede;
+  color: #000
+}
+
+table.table-striped tbody tr:nth-of-type(odd) {
+  background: #f9f9f9
+}
+
+table.result-point tr td.number {
+  width: 100px;
+  position: relative
+}
+
+.text-left {
+  text-align: left !important
+}
+
+table tr td {
+  padding: 10px 20px;
+  border: 1px solid #dedede
+}
+
+table.result-point tr td .fa.fa-caret-up {
+  color: green
+}
+
+table.result-point tr td .fa {
+  font-size: 20px;
+  position: absolute;
+  right: 20px
+}
+
+table tr td {
+  padding: 10px 40px;
+  border: 1px solid #dedede
+}
+
+table tr td img {
+  max-width: 32px;
+  float: left;
+  margin-right: 11px;
+  margin-top: 1px;
+  border: 1px solid #dedede
+}
+
+.card{
+  margin-left: 100px;
+  margin-right: 100px;
+}
